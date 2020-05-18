@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+app/__pycache__
+app/controllers/__pycache__
+app/extops/__pycache__
+app/static/__pycache__
+app/utils/__pycache__
+misc.txt
